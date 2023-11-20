@@ -50,7 +50,7 @@ Inicie o servidor
 Abra o index
 
 ```bash
-  na pasta do do seu ambiente va ate a pasta htdocs, htroot  
+  na pasta  do seu ambiente va ate a pasta htdocs, htroot  
 ```
 ```bash
   cole a pasta do projeto
