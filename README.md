@@ -7,7 +7,10 @@ Uma pequena agenda feita em php que realiza as funções basicas de um crud em p
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+<img src="img/print1.png">
+<img src="img/print2.png">
+<img src="img/print3.png">
+<img src="img/print4.png">
 
 
 ## Funcionalidades
@@ -26,10 +29,10 @@ Clone o projeto
   git clone https://link-para-o-projeto
 ```
 
-Entre no diretório do projeto
+Entre no diretório do projeto e instale o banco
 
 ```bash
-  cd my-project
+  Execute o script agenda.sql em seu servidor sql local
 ```
 
 Execute um ambiente de PHP + Mysql +apache
